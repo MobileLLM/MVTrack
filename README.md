@@ -29,7 +29,7 @@ Before running the code, make sure ```ffmpeg-4.4.1``` is installed, if not, do:
 
 ## 2. Run our code
 
-Now, with the repo folder ` ` ` h264_cabac. C ` ` ` will ` ` ` libavcodec ` ` ` folder of ` ` ` h264_cabac. C ` ` ` :
+Now, with the repo folder ```h264_cabac. C``` will ```libavcodec``` folder of ```h264_cabac. C``` :
 
 ```cd ffmpeg-4.4.1```
 
@@ -54,7 +54,7 @@ Detect input.mp4 using any object detection model, the test results are saved in
 
 ## 4. MV-based shift
 
-Get ` ` ` mv. TXT ` ` ` file, and get to the test results ` ` ` results ` ` ` CSV file, will redefine the inspection results for ` ` ` dds_utils. Py ` ` ` in ` ` ` Region ` ` ` structure, Run the process_results.py file to reuse the results and save the final results as a final_results CSV file.
+Get ` ` ` mv. TXT ` ` ` file, and get to the test results ```results``` CSV file, will redefine the inspection results for ```dds_utils. Py``` 在 ```Region``` structure, Run the process_results.py file to reuse the results and save the final results as a final_results CSV file.
 
 ```
 class Region:
