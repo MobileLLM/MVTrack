@@ -1,5 +1,5 @@
 # MVTrack
-Object tracking with motion vector in video bitstream.
+An accuracy boosting tool of video analytics by object tracking with motion vector in the bitstream.
 
 ## 0. Environment
 
